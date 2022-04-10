@@ -7,3 +7,4 @@
 #ignore all files in these directories
 .ipynb_checkpoints/
 __pycache__/
+intro_to_qc_challenges/grovers_algorithm/.ipynb_checkpoints/
